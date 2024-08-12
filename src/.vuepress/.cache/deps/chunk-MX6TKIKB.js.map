@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../node_modules/.pnpm/@vue+repl@4.3.1/node_modules/@vue/repl/dist/chunks/types-8zeW1Jjj.js"],
+  "sourcesContent": ["const injectKeyStore = Symbol(\"store\");\n\nexport { injectKeyStore as i };\n"],
+  "mappings": ";AAAA,IAAM,iBAAiB,OAAO,OAAO;",
+  "names": []
+}

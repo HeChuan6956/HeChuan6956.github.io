@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../node_modules/.pnpm/@vuepress+helper@2.0.0-rc.40_typescript@5.5.4_vuepress@2.0.0-rc.14_@vuepress+bundler-vite@2.0_mmeivdz36cvxla3pcsazesegei/node_modules/@vuepress/helper/lib/client/noopComponent.js"],
+  "sourcesContent": ["const noopComponent = () => null;\nexport default noopComponent;\n"],
+  "mappings": ";;;AAAA,IAAM,gBAAgB,MAAM;AAC5B,IAAO,wBAAQ;",
+  "names": []
+}
