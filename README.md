@@ -1,6 +1,6 @@
-# vuepress-theme-hope Blog Demo
+# Test of HeChuan.Github.io
 
-This is a blog demo and test for `vuepress-theme-hope`.
+This is a Github.io demo and test for `HeChuan's page`.
 
 You can use this demo directly via:
 
